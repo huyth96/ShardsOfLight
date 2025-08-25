@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Spike
+  - NPC
+  - Ice
+  - Sand
+  - Concrete
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - PlayerHitbox
+  - EnemyHitbox
+  - GroundDetection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 2232421427
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2762464647
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2878299475
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3390899371
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 100071339
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1672520785
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 3147654041
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 2416390687
+    locked: 0
+  - name: Background
+    uniqueID: 1926613109
+    locked: 0
+  - name: Platform
+    uniqueID: 720728079
+    locked: 0
+  - name: Ground
+    uniqueID: 3619807565
+    locked: 0
+  - name: Object
+    uniqueID: 36515685
+    locked: 0
+  - name: NPC
+    uniqueID: 2949803225
+    locked: 0
+  - name: Player
+    uniqueID: 1630896005
+    locked: 0
+  - name: UI
+    uniqueID: 4047788673
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - 
