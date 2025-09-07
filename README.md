@@ -17,9 +17,6 @@ The only way to complete the adventure is to collect all **four crystal shards**
 ---
 
 ## 🕹️ How to Play
-- Clone or download this repository:  
-  git clone https://github.com/username/shard-of-light.git  
-
 - Open the project in **Unity 2021.3 LTS** (or newer)  
 - Press **Play** in the Unity Editor or build the project for your target platform  
 - Use **Arrow keys / WASD** to move Arin, jump, and explore  
